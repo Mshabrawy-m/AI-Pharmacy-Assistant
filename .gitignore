@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit specific
+.streamlit/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
