@@ -1,13 +1,3 @@
-"""
-app.py - AI Pharmacy Assistant
-Main Streamlit application.
-
-Tab 1 — Prescription Reader + AI Pharmacy Chatbot
-Tab 2 — Clinical Pharmacology RAG Chatbot (answers from the textbook)
-
-Run with:
-    streamlit run app.py
-"""
 
 import html
 
